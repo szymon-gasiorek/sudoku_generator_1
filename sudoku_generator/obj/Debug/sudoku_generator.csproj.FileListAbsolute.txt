@@ -1,0 +1,7 @@
+C:\Users\Dragan\source\repos\sudoku_generator\sudoku_generator\bin\Debug\sudoku_generator.exe.config
+C:\Users\Dragan\source\repos\sudoku_generator\sudoku_generator\bin\Debug\sudoku_generator.exe
+C:\Users\Dragan\source\repos\sudoku_generator\sudoku_generator\bin\Debug\sudoku_generator.pdb
+C:\Users\Dragan\source\repos\sudoku_generator\sudoku_generator\obj\Debug\sudoku_generator.csprojAssemblyReference.cache
+C:\Users\Dragan\source\repos\sudoku_generator\sudoku_generator\obj\Debug\sudoku_generator.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\source\repos\sudoku_generator\sudoku_generator\obj\Debug\sudoku_generator.exe
+C:\Users\Dragan\source\repos\sudoku_generator\sudoku_generator\obj\Debug\sudoku_generator.pdb
